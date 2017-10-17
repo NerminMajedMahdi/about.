@@ -1,0 +1,114 @@
+
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>About me</title>
+     <div class="address">  
+    <h1>Nermin Majed Mahdi</h1> 
+  </div>
+
+    <!-- Bootstrap core CSS --> 
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <!-- Custom styles for this template go here --> 
+    <link rel="stylesheet" href="http://d33wubrfki0l68.cloudfront.net/css/80f66367bb91d6603c27ac50ad91ec95c2315448/css/styles.css">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+         
+          </div><!-- end col-md-4 col-xs-4 -->
+         </div><!-- end row -->       
+      </div><!-- end container fluid-->
+
+      <div class="container-biography">
+        <div class="row" id="bio">
+          <div class="col-md-6">
+            <img src="img/left-about-image.jpg" class="img-responsive">
+          </div><!-- end col-md-6 -->
+
+
+            <h1 >Characteristics</h1><br>
+              <ul>
+                <li> * Ambitious</li><br>
+                <li> * Creative</li><br>
+                <li> * Flexible</li><br>
+              </ul> 
+
+</div><!-- end row --> 
+</div><!-- end container biography-->
+    </div><!-- end of container about --> 
+            <div class="container anchor">
+          <div class="col-md-12">
+            <h3>More About Me</h3>
+              <p> I love what I do and approach every project with the same passion. My process is well thought through, ensuring my work is always delivered on time and on budget. I want to be a global programmer and the number one of  developing software <br>.</p>
+            </div>
+
+
+      
+        
+    
+    <div class="container anchor"><!-- start of work section -->
+      <div class="row" id="portfolio">
+        <div class="col-md-4 col-sm-6">
+
+          <img src="img/maxresdefault.jpg" class="img-responsive">
+        </div><!-- end col-lg-3 -->
+        
+        <div class="col-md-4 col-sm-6">
+          <img src="img/maxresdefault.jpg" class="img-responsive">
+          </div>
+        
+        <div class="col-md-4 col-sm-6">
+          <img src="img/maxresdefault.jpg" class="img-responsive">
+        </div><!-- end col-lg-3 -->
+        
+        <div class="col-md-4 col-sm-6">
+          <img src="img/maxresdefault.jpg" class="img-responsive">
+        </div><!-- end col-lg-3 -->
+
+        <div class="col-md-4 col-sm-6">
+          <img src="img/maxresdefault.jpg" class="img-responsive">
+        </div><!-- end col-lg-3 -->
+
+        <div class="col-md-4 col-sm-6">
+          <img src="img/maxresdefault.jpg" class="img-responsive">
+        </div><!-- end col-lg-3 -->
+      </div><!--end row -->
+    </div><!--- end container --> 
+
+
+        
+           <div class="address">  
+          <div class="header">
+            <h2>Palestine|Gaza Strip </h2>
+          </div><!-- end header -->
+          
+          <div class="list">  
+            <ul>
+             <ul>
+                <li>  <span class= "glyphicon glyphicon-map-marker"></span> :Gaza 99C/899 </li>
+                <li>  <li><span class="glyphicon glyphicon-phone-alt"></span> : +49930 8858 912</li> </li>
+                <li>   <li><span class= "glyphicon glyphicon-hand-right"></span> : +49930 666 912</li></li>
+
+              </ul>   
+          </div><!-- end list -->
+        </div><!-- end Address column -->
+      </div><!-- end content -->
+    </div><!-- end container contact --> 
+    
+    <!-- ============================= -->
+    <!-- All your JavaScript comes now -->
+    <!-- ============================= -->
+   
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Bootstrap core JS -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <!-- Can place script tags with JavaScript files here -->
+  
+</div></div></div></body></html>
+ 
